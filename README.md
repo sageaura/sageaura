@@ -8,6 +8,6 @@ Hey there, I'm Sara Villar 👋
 - 📫 How to reach me: Discord: sageaura#1987
 - ⚡ Fun fact: I love astronomy, making macrame, cooking and spending time with my loved ones
 
-![visitors](https://visitor-badge.glitch.me/badge?sageaura=sageaura)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sageaura)
 ![visitor badge](https://visitor-badge.glitch.me/badge?sageaura=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=red&right_color=green)
 
