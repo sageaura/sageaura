@@ -10,4 +10,8 @@ Hey there, I'm Sara Villar 👋
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=darkgreen)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=purple)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=pink)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=orange)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=cyan)
 
