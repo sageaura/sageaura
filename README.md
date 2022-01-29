@@ -10,3 +10,6 @@ Hey there, I'm Sara Villar 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=purple)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=pink)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sageaura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
