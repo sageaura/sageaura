@@ -9,5 +9,5 @@ Hey there, I'm Sara Villar 👋
 - ⚡ Fun fact: I love astronomy, making macrame, cooking and spending time with my loved ones
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=ashgray)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sageaura.visitor-badge&left_text=Hey%20Visitors&left_color=grey&right_color=darkgreen)
 
